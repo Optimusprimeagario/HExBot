@@ -91,6 +91,7 @@
 				"core/controllers/functions.js",
 				"core/controllers/controlPanel.js",
 				"core/controllers/buttonToAction.js",
+				"core/controllers/shortcuts.js",
 				"core/controllers/botButton.js",
 				"core/controllers/bootstrap.js"
 			],
